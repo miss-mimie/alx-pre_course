@@ -1,1 +1,1 @@
-My first ALX directory
+Descriptory message
